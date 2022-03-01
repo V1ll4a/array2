@@ -1,0 +1,12 @@
+.cientificos{
+    padding: 20px
+}
+#contenedor{
+    display:flex
+}
+body{background-color: antiquewhite;}
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color:rgb(96, 73, 40);
+}
